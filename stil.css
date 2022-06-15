@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: mediumpurple;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 1300px;
+	background-color: whitesmoke;
+	padding: 20px;
+	
+}
+h1 {
+	color: blueviolet;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 30px;
+	line-height: 18px;
+	width: 1300px;
+}
+h2 {
+	color: blueviolet;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 25px;
+	line-height: 18px;
+	width: 1300px;
+}
+h3 {
+	color: blueviolet;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 18px;
+	line-height: 18px;
+	width: 1300px;
+}
+body{
+	background-image: url("slike/pozadina.jpg");
+}
+ol{
+	color: mediumpurple;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 1300px;
+	background-color: whitesmoke;
+	padding: 20px;
+}
+ul{
+	color: mediumpurple;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 1300px;
+	background-color: whitesmoke;
+	padding: 20px;
+}
+q {
+	color: mediumpurple;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 1300px;
+}
